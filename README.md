@@ -385,7 +385,7 @@ Email uniqueness should be enforced by a MongoDB unique index. Mongoose's `uniqu
 
 Postman was used to test the API locally, including the successful retrieval of an empty user collection.
 
-The collection is named **Syntecxhub User CRUD API**. *This Folder has been attached for references.*
+The collection is named **Syntecxhub User CRUD API**. *This collection file has been saved under Postman Folder for references.*
 
 Before testing, start the backend using:
 
